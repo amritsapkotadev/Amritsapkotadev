@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amrit sapkota</h1>
-<h3 align="center">A passionate frontend developer and React Native App developer from Nepal</h3>
+<h3 align="center">A passionate frontend developer and React native App developerer from India</h3>
 <img align="center" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritsapkotadev&label=Profile%20views&color=0e75b6&style=flat" alt="amritsapkotadev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritsapkotadev" alt="amritsapkotadev" /></a> </p>
 
 - 🔭 I’m currently working on **Barabar**
 
